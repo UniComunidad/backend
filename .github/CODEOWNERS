@@ -1,0 +1,18 @@
+# ========== CODEOWNERS ==========
+# Formato: [ruta o patrón] [dueños que deben revisar cambios]
+
+# Dueños globales (los administradores)
+* @lucianorodriguez1 
+
+# Backend principal
+/src/ @lucianorodriguez1 
+
+# Configuraciones y dependencias
+/package.json @lucianorodriguez1 
+/.env.example @lucianorodriguez1 
+/.github/ @lucianorodriguez1 
+/.md @lucianorodriguez1
+
+
+# Documentación (opcional, si quieren que otros puedan editar)
+# /docs/ @algunoDeLosChicos
