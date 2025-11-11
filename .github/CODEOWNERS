@@ -2,7 +2,8 @@
 # Formato: [ruta o patrón] [dueños que deben revisar cambios]
 
 # Dueños globales (los administradores)
-* @lucianorodriguez1 
+* @lucianorodriguez1
+* @kiki
 
 # Backend principal
 /src/ @lucianorodriguez1 
